@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repo de prueba mód 2 del prep course
+Esto es una prueba crear repo y clonarlo desde Github a mi escritorio local
+
